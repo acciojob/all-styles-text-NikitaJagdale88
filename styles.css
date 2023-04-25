@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
 .container{
 	  width: 200px;
-      background-color: rgb(128,0,128);
+      background-color: purple;
 	  border-left-width: 5px;
 	  border-left-color:green;
 	  border-left-style:solid;
